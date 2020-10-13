@@ -1,4 +1,4 @@
-## Predicting Air Pollution
+## Predicting Air Pollution -Time Series Forecasting
 
 *GitHub Repository Link:* <https://github.com/harshulvarma/air_pollution_prediction>
 
